@@ -43,3 +43,34 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.ep1{
+    box-shadow: 10px 10px 5px grey;
+    margin-left:4%;
+    margin-right: 5%;
+    width:40%;
+    padding-left:30px ;
+    border-radius: 10px;
+    height: 400px;
+
+}
+.bg3{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.webdev{
+    border-left: 10px solid ;
+    border-image: linear-gradient(orange,rgb(255, 13, 0));
+    border-image-slice: 1;
+  
+
+}
+.webdev2
+{
+    border-left: 10px solid ;
+    border-image: linear-gradient(rgba(38, 0, 255, 0.832),rgb(5, 25, 80));
+    border-image-slice: 1; 
+}
+footer{
+    text-align: center;
+}
