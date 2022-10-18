@@ -1,3 +1,45 @@
 body{
     font-family: 'Mulish', sans-serif;
+    margin:0;
+}
+h1{
+    font-size: 80px;
+}
+.yellow{
+    color:orange;
+}
+.fex{
+    display:flex;
+    margin-bottom: 100px;
+}
+.half-width
+{
+   width:50%; 
+   padding-left:2%;
+   
+}
+.half-width p{
+    font-size: 20px;
+}
+.half-width img{
+    width:70%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,rgb(255, 13, 0));
+    padding: 10px 40px;
+    color:white;
+    border-radius: 6px;
+    font-size: 20px;
+    width:50px;
+}
+.bg{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+.bg1{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
